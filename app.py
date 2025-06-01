@@ -1,7 +1,7 @@
 
 **Code (app.py)**  
 '''
-'''code'''
+
 ```python
 from flask import Flask, render_template_string, request, redirect
 import sqlite3
